@@ -57,9 +57,17 @@ We aim to build systems that are:
 - maintainable by humans and AI-assisted engineering tools;
 - designed around real operational and business needs.
 
-## Colombia · Global mindset
+## Operating footprint
 
-Digital Consulting Plus operates from Colombia and builds technology for businesses across multiple markets.
+Digital Consulting Plus operates through two legal entities with complementary market focus:
+
+- **Digital Consulting Plus LLC — United States & International**  
+  Our U.S. entity supports international business, global technology services, SaaS, AI, automation, consulting, and cross-border client relationships.
+
+- **Digital Consulting Plus SAS — Colombia & Latin America**  
+  Our Colombian entity supports local and regional operations, software services, implementation, billing, and business activity across Colombia and Latin America.
+
+Together, both entities form one technology ecosystem with a binational operating model and an international delivery mindset.
 
 ---
 
