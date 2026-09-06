@@ -4,6 +4,8 @@ This is the organization-level contribution baseline for repositories that do no
 
 Normative engineering rules live in [DCP Flow](https://github.com/digitalconsultingplus/dcp-flow). Repository-specific instructions override this baseline when they are stricter or more precise.
 
+**Languages:** **English** · [Español](CONTRIBUTING.es.md) · [Català](CONTRIBUTING.ca.md)
+
 ## Default contribution flow
 
 ```text
