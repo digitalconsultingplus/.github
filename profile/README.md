@@ -6,6 +6,8 @@ Digital Consulting Plus is a technology company focused on designing and buildin
 
 We work across software engineering, automation, artificial intelligence, cloud infrastructure, systems integration, and proprietary digital products.
 
+**Languages:** **English** · [Español](README.es.md) · [Català](README.ca.md)
+
 ## What we build
 
 Our engineering work includes:

@@ -4,6 +4,8 @@ Dependabot configuration is **repository-specific**. A `.github/dependabot.yml` 
 
 This document defines the organization baseline to apply locally where Dependabot is appropriate.
 
+**Languages:** **English** · [Español](dependabot-baseline.es.md) · [Català](dependabot-baseline.ca.md)
+
 ## Separate dependency ecosystems
 
 Configure only ecosystems actually present in the repository.

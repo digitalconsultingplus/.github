@@ -4,6 +4,8 @@ This document defines the lightweight organization conventions implemented by `d
 
 It is **not** the normative DCP Flow standard. When a rule here conflicts with DCP Flow, DCP Flow wins.
 
+**Languages:** **English** · [Español](repository-governance.es.md) · [Català](repository-governance.ca.md)
+
 ## Repository lifecycle states
 
 These states describe the operating posture of a repository. They are intentionally independent of software release/versioning.
