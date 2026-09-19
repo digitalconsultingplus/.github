@@ -4,6 +4,8 @@ This document translates current DCP Flow repository controls into a minimal org
 
 The normative source remains DCP Flow, especially `standards/github-repository-controls.es.md` and the applicable Quality Gates.
 
+**Languages:** **English** · [Español](github-actions-governance.es.md) · [Català](github-actions-governance.ca.md)
+
 ## Principles
 
 GitHub Actions workflows should be:

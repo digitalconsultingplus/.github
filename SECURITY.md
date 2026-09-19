@@ -4,6 +4,8 @@ Digital Consulting Plus treats security reports as sensitive until they can be a
 
 This organization-level policy is the default for repositories that do not define a repository-specific `SECURITY.md`.
 
+**Languages:** **English** · [Español](SECURITY.es.md) · [Català](SECURITY.ca.md)
+
 ## Reporting a vulnerability
 
 **Do not report sensitive vulnerabilities in public GitHub issues, discussions, pull requests or other public channels.**
