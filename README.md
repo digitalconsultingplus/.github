@@ -4,6 +4,8 @@ This repository is the organization-level GitHub governance layer for **Digital 
 
 It does **not** replace or duplicate [DCP Flow](https://github.com/digitalconsultingplus/dcp-flow).
 
+**Languages:** **English** · [Español](README.es.md) · [Català](README.ca.md)
+
 ```text
 dcp-flow
 → methodology, standards, blueprints and decision criteria
@@ -124,6 +126,12 @@ See:
 - [`docs/github-actions-governance.md`](docs/github-actions-governance.md) — Actions security and reuse rules;
 - [`docs/dependabot-baseline.md`](docs/dependabot-baseline.md) — dependency update baseline.
 
-## Current bootstrap note
+## Language policy
 
-This repository predates the current DCP Flow `main` + `dev` governance model. Its first governance baseline is therefore being introduced through the documented one-time governance bootstrap path. After that baseline is accepted into `main`, `dev` should be created from the accepted baseline and configured as the operational default branch when platform controls permit.
+Governance documentation is maintained in **English, Español and Català**. Canonical files that GitHub discovers automatically remain in English to preserve a single operational surface; translations are published as `.es.md` and `.ca.md` variants. Operational PR/issue templates are not duplicated by language to avoid multiplying options in the GitHub interface.
+
+## Current branch model
+
+The one-time legacy governance bootstrap has been completed. `dev` now exists from the accepted `main` baseline and is the integration branch for normal DCP Flow work. `main` remains the stable baseline/release branch.
+
+Changing the repository's configured default branch and applying/verifying technical branch protections remain separate GitHub administration controls and must not be claimed as active without evidence.
