@@ -55,7 +55,7 @@ Seleccionem les tecnologies segons el producte, les restriccions operatives i el
 
 ## DCP Flow i evidència pública d'enginyeria
 
-[DCP Flow](https://dcpflow.digitalconsultingplus.co/) és el nostre mètode de lliurament humà + IA. El seu Engineering System utilitza blueprints contextuals, Skills reutilitzables, Quality Gates, decisions documentades i revisió humana. La governança és comuna als diversos stacks, sense barrejar les convencions de Laravel i TypeScript.
+[DCP Flow](https://dcpflow.digitalconsultingplus.co/) és el nostre mètode de lliurament humà + IA, també documentat en un [cas públic sanititzat de metodologia](https://github.com/kike918/architecture-case-studies/tree/main/cases/dcp-flow). El seu Engineering System utilitza blueprints contextuals, Skills reutilitzables, Quality Gates, decisions documentades i revisió humana. La governança és comuna als diversos stacks, sense barrejar les convencions de Laravel i TypeScript.
 
 Els nostres [casos públics d'arquitectura](https://github.com/kike918/architecture-case-studies) documenten decisions, compromisos tècnics i evidència sanititzada; no reprodueixen el codi privat dels productes.
 
