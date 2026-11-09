@@ -55,7 +55,7 @@ We choose tools according to the product, operational constraints, and maintenan
 
 ## DCP Flow and public engineering evidence
 
-[DCP Flow](https://dcpflow.digitalconsultingplus.co/) is our human + AI delivery method. Its Engineering System uses contextual blueprints, reusable skills, quality gates, documented decisions and human review. The same governance applies across stacks without mixing Laravel and TypeScript conventions.
+[DCP Flow](https://dcpflow.digitalconsultingplus.co/) is our human + AI delivery method, also described in a [sanitized methodology architecture case](https://github.com/kike918/architecture-case-studies/tree/main/cases/dcp-flow). Its Engineering System uses contextual blueprints, reusable skills, quality gates, documented decisions and human review. The same governance applies across stacks without mixing Laravel and TypeScript conventions.
 
 Our [public architecture case studies](https://github.com/kike918/architecture-case-studies) document sanitized decisions, trade-offs and evidence. They are not mirrors of private application code.
 
