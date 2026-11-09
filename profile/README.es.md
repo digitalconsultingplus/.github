@@ -42,6 +42,23 @@ Nuestros principios de ingeniería priorizan:
 
 **Seguridad · Mantenibilidad · Trazabilidad · Automatización · Calidad · Escalabilidad**
 
+## Stacks según el contexto de entrega
+
+Seleccionamos tecnologías según el producto, sus restricciones operativas y el mantenimiento requerido; no imponemos una pila universal.
+
+| Contexto | Tecnologías seleccionadas | Ejemplo |
+|---|---|---|
+| Aplicaciones empresariales y SaaS | PHP, Laravel, Livewire, Blade, PostgreSQL | [Rewi](https://rewi.digitalconsultingplus.co/) — fidelización digital |
+| Aplicaciones TypeScript y APIs | React, TypeScript, Node.js, Hono, Zod, Drizzle, PostgreSQL | Tazario Recipes by SipDolce — implementación CoffeeTech privada |
+| Webs orientadas a contenido | Astro, TypeScript, integración selectiva de React | [SipDolce Labs](https://sipdolcelabs.com/) — web editorial CoffeeTech |
+| Operaciones e integraciones | Docker, Caddy, GitHub Actions, Google Cloud, Python, n8n, Odoo | Automatización y despliegue según el contexto |
+
+## DCP Flow y evidencia pública de ingeniería
+
+[DCP Flow](https://dcpflow.digitalconsultingplus.co/) es nuestro método de entrega humano + IA. Su Engineering System utiliza blueprints contextuales, Skills reutilizables, Quality Gates, decisiones documentadas y revisión humana. El gobierno es común entre stacks, sin mezclar convenciones de Laravel y TypeScript.
+
+Nuestros [casos públicos de arquitectura](https://github.com/kike918/architecture-case-studies) documentan decisiones, compromisos técnicos y evidencia sanitizada; no duplican el código privado de los productos.
+
 ## Productos e iniciativas
 
 Digital Consulting Plus desarrolla y opera productos digitales propios e iniciativas tecnológicas en software, automatización, IA, comercio e infraestructura empresarial.
