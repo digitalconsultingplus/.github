@@ -42,6 +42,23 @@ Our engineering principles emphasize:
 
 **Security · Maintainability · Traceability · Automation · Quality · Scalability**
 
+## Engineering stacks by delivery context
+
+We choose tools according to the product, operational constraints, and maintenance needs—not a universal technology checklist.
+
+| Delivery context | Selected technologies | Example |
+|---|---|---|
+| Business applications and SaaS | PHP, Laravel, Livewire, Blade, PostgreSQL | [Rewi](https://rewi.digitalconsultingplus.co/) — digital loyalty platform |
+| TypeScript applications and APIs | React, TypeScript, Node.js, Hono, Zod, Drizzle, PostgreSQL | Tazario Recipes by SipDolce — private CoffeeTech implementation |
+| Content-oriented websites | Astro, TypeScript, selective React integration | [SipDolce Labs](https://sipdolcelabs.com/) — CoffeeTech editorial web |
+| Operations and integration | Docker, Caddy, GitHub Actions, Google Cloud, Python, n8n, Odoo | Context-specific delivery and automation |
+
+## DCP Flow and public engineering evidence
+
+[DCP Flow](https://dcpflow.digitalconsultingplus.co/) is our human + AI delivery method. Its Engineering System uses contextual blueprints, reusable skills, quality gates, documented decisions and human review. The same governance applies across stacks without mixing Laravel and TypeScript conventions.
+
+Our [public architecture case studies](https://github.com/kike918/architecture-case-studies) document sanitized decisions, trade-offs and evidence. They are not mirrors of private application code.
+
 ## Products & initiatives
 
 Digital Consulting Plus develops and operates proprietary digital products and technology initiatives across software, automation, AI, commerce, and business infrastructure.
