@@ -48,7 +48,7 @@ Seleccionem les tecnologies segons el producte, les restriccions operatives i el
 
 | Context | Tecnologies seleccionades | Exemple |
 |---|---|---|
-| Aplicacions empresarials i SaaS | PHP, Laravel, Livewire, Blade, PostgreSQL | [Rewi](https://rewi.digitalconsultingplus.co/) — fidelització digital |
+| Aplicacions empresarials i SaaS | PHP, Laravel, Livewire, Blade, PostgreSQL | [Rewi](https://rewi.digitalconsultingplus.co/) — SaaS de fidelització v0.2.1 desplegat (2026-11-03); [cas d'arquitectura](https://github.com/kike918/architecture-case-studies/tree/main/cases/rewi) |
 | Aplicacions TypeScript i API | React, TypeScript, Node.js, Hono, Zod, Drizzle, PostgreSQL | Tazario Recipes by SipDolce — implementació CoffeeTech privada; preparada per al desplegament a GCP, pendent de verificació en producció |
 | Webs orientats a continguts | Astro, TypeScript, integració selectiva de React | [SipDolce Labs](https://sipdolcelabs.com/) — web editorial CoffeeTech |
 | Operacions i integracions | Docker, Caddy, GitHub Actions, Google Cloud, Python, n8n, Odoo | Automatització i desplegament segons el context |
