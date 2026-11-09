@@ -61,6 +61,9 @@ Our [public architecture case studies](https://github.com/kike918/architecture-c
 
 ## Products & initiatives
 
+[MicroPOS](https://digitalconsultingplus.com/micropos/) has a documented Astro/PHP/SQLite commercial website and mini CRM with API/payment/integration workflows. The separate offline-first Raspberry Pi POS architecture remains at the planned-pilot stage. [Sanitized architecture and evidence](https://github.com/kike918/architecture-case-studies/tree/main/cases/micropos).
+
+
 Digital Consulting Plus develops and operates proprietary digital products and technology initiatives across software, automation, AI, commerce, and business infrastructure.
 
 Selected projects and open-source initiatives will become publicly visible here as they mature.
