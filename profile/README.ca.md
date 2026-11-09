@@ -42,6 +42,23 @@ Els nostres principis d'enginyeria prioritzen:
 
 **Seguretat · Mantenibilitat · Traçabilitat · Automatització · Qualitat · Escalabilitat**
 
+## Tecnologies segons el context de lliurament
+
+Seleccionem les tecnologies segons el producte, les restriccions operatives i el manteniment necessari; no imposem una pila universal.
+
+| Context | Tecnologies seleccionades | Exemple |
+|---|---|---|
+| Aplicacions empresarials i SaaS | PHP, Laravel, Livewire, Blade, PostgreSQL | [Rewi](https://rewi.digitalconsultingplus.co/) — fidelització digital |
+| Aplicacions TypeScript i API | React, TypeScript, Node.js, Hono, Zod, Drizzle, PostgreSQL | Tazario Recipes by SipDolce — implementació CoffeeTech privada |
+| Webs orientats a continguts | Astro, TypeScript, integració selectiva de React | [SipDolce Labs](https://sipdolcelabs.com/) — web editorial CoffeeTech |
+| Operacions i integracions | Docker, Caddy, GitHub Actions, Google Cloud, Python, n8n, Odoo | Automatització i desplegament segons el context |
+
+## DCP Flow i evidència pública d'enginyeria
+
+[DCP Flow](https://dcpflow.digitalconsultingplus.co/) és el nostre mètode de lliurament humà + IA. El seu Engineering System utilitza blueprints contextuals, Skills reutilitzables, Quality Gates, decisions documentades i revisió humana. La governança és comuna als diversos stacks, sense barrejar les convencions de Laravel i TypeScript.
+
+Els nostres [casos públics d'arquitectura](https://github.com/kike918/architecture-case-studies) documenten decisions, compromisos tècnics i evidència sanititzada; no reprodueixen el codi privat dels productes.
+
 ## Productes i iniciatives
 
 Digital Consulting Plus desenvolupa i opera productes digitals propis i iniciatives tecnològiques en software, automatització, IA, comerç i infraestructura empresarial.
