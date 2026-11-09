@@ -49,7 +49,7 @@ Seleccionamos tecnologías según el producto, sus restricciones operativas y el
 | Contexto | Tecnologías seleccionadas | Ejemplo |
 |---|---|---|
 | Aplicaciones empresariales y SaaS | PHP, Laravel, Livewire, Blade, PostgreSQL | [Rewi](https://rewi.digitalconsultingplus.co/) — fidelización digital |
-| Aplicaciones TypeScript y APIs | React, TypeScript, Node.js, Hono, Zod, Drizzle, PostgreSQL | Tazario Recipes by SipDolce — implementación CoffeeTech privada |
+| Aplicaciones TypeScript y APIs | React, TypeScript, Node.js, Hono, Zod, Drizzle, PostgreSQL | Tazario Recipes by SipDolce — implementación CoffeeTech privada; preparada para despliegue en GCP, pendiente de verificación productiva |
 | Webs orientadas a contenido | Astro, TypeScript, integración selectiva de React | [SipDolce Labs](https://sipdolcelabs.com/) — web editorial CoffeeTech |
 | Operaciones e integraciones | Docker, Caddy, GitHub Actions, Google Cloud, Python, n8n, Odoo | Automatización y despliegue según el contexto |
 
