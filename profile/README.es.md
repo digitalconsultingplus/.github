@@ -55,7 +55,7 @@ Seleccionamos tecnologías según el producto, sus restricciones operativas y el
 
 ## DCP Flow y evidencia pública de ingeniería
 
-[DCP Flow](https://dcpflow.digitalconsultingplus.co/) es nuestro método de entrega humano + IA. Su Engineering System utiliza blueprints contextuales, Skills reutilizables, Quality Gates, decisiones documentadas y revisión humana. El gobierno es común entre stacks, sin mezclar convenciones de Laravel y TypeScript.
+[DCP Flow](https://dcpflow.digitalconsultingplus.co/) es nuestro método de entrega humano + IA, también documentado en un [caso público sanitizado de metodología](https://github.com/kike918/architecture-case-studies/tree/main/cases/dcp-flow). Su Engineering System utiliza blueprints contextuales, Skills reutilizables, Quality Gates, decisiones documentadas y revisión humana. El gobierno es común entre stacks, sin mezclar convenciones de Laravel y TypeScript.
 
 Nuestros [casos públicos de arquitectura](https://github.com/kike918/architecture-case-studies) documentan decisiones, compromisos técnicos y evidencia sanitizada; no duplican el código privado de los productos.
 
