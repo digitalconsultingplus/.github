@@ -50,7 +50,7 @@ We choose tools according to the product, operational constraints, and maintenan
 |---|---|---|
 | Business applications and SaaS | PHP, Laravel, Livewire, Blade, PostgreSQL | [Rewi](https://rewi.digitalconsultingplus.co/) — loyalty SaaS, v0.2.1 deployed (2026-11-03); [architecture case](https://github.com/kike918/architecture-case-studies/tree/main/cases/rewi) |
 | TypeScript applications and APIs | React, TypeScript, Node.js, Hono, Zod, Drizzle, PostgreSQL | Tazario Recipes by SipDolce — private CoffeeTech implementation; GCP deployment prepared, production verification pending |
-| Content-oriented websites | Astro, TypeScript, selective React integration | [SipDolce Labs](https://sipdolcelabs.com/) — CoffeeTech editorial web |
+| Content-oriented websites | Astro, TypeScript, selective React integration | [SipDolce Labs](https://sipdolcelabs.com/) — deployed v1 CoffeeTech editorial web (Astro SSG + bounded PHP/SQLite); [architecture case](https://github.com/kike918/architecture-case-studies/tree/main/cases/sipdolce-labs) |
 | Operations and integration | Docker, Caddy, GitHub Actions, Google Cloud, Python, n8n, Odoo | Context-specific delivery and automation |
 
 ## DCP Flow and public engineering evidence
